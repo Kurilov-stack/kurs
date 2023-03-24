@@ -1,0 +1,259 @@
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\obj\Debug\CourseWorkTest.csprojAssemblyReference.cache
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\obj\Debug\CourseWorkTest.csproj.CoreCompileInputs.cache
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\CourseWorkTest.dll.config
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\CourseWorkTest.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\CourseWorkTest.pdb
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Castle.Core.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\CourseWork.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Moq.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\System.Web.Helpers.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\System.Web.Razor.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.Owin.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Owin.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\EntityFramework.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\ClosedXML.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\WebGrease.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\CourseWork.pdb
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\CourseWork.dll.config
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Castle.Core.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Moq.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\System.Web.Helpers.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\System.Web.Razor.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.Owin.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\System.Web.Optimization.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\EntityFramework.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\ClosedXML.pdb
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\ClosedXML.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\bin\Debug\ru\System.Web.Optimization.resources.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\obj\Debug\CourseWorkTest.csproj.CopyComplete
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\obj\Debug\CourseWorkTest.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWorkTest\obj\Debug\CourseWorkTest.pdb
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\CourseWorkTest.dll.config
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\CourseWorkTest.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\CourseWorkTest.pdb
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Castle.Core.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\CourseWork.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Moq.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\System.Web.Helpers.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\System.Web.Razor.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.Owin.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Owin.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\EntityFramework.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\ClosedXML.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\WebGrease.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\ExcelNumberFormat.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Antlr3.Runtime.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\CourseWork.pdb
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\CourseWork.dll.config
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Castle.Core.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Moq.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\System.Web.Helpers.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\System.Web.Razor.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.Owin.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\System.Web.Optimization.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\EntityFramework.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\ClosedXML.pdb
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\ClosedXML.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\ExcelNumberFormat.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\bin\Debug\ru\System.Web.Optimization.resources.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\obj\Debug\CourseWorkTest.csprojAssemblyReference.cache
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\obj\Debug\CourseWorkTest.csproj.CoreCompileInputs.cache
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\obj\Debug\CourseWorkTest.csproj.CopyComplete
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\obj\Debug\CourseWorkTest.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWorkTest\obj\Debug\CourseWorkTest.pdb
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\CourseWorkTest.dll.config
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\CourseWorkTest.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\CourseWorkTest.pdb
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Castle.Core.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\CourseWork.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Moq.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\System.Web.Helpers.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\System.Web.Razor.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.Owin.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Owin.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\EntityFramework.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\ClosedXML.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\WebGrease.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\ExcelNumberFormat.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Antlr3.Runtime.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\CourseWork.pdb
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\CourseWork.dll.config
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Castle.Core.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Moq.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\System.Web.Helpers.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\System.Web.Razor.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.Owin.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\System.Web.Optimization.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\EntityFramework.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\ClosedXML.pdb
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\ClosedXML.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\ExcelNumberFormat.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\ru\System.Web.Optimization.resources.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\obj\Debug\CourseWorkTest.csprojAssemblyReference.cache
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\obj\Debug\CourseWorkTest.csproj.CoreCompileInputs.cache
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\obj\Debug\CourseWorkTest.csproj.CopyComplete
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\obj\Debug\CourseWorkTest.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\obj\Debug\CourseWorkTest.pdb
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\opencv_world411.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\yolo_cpp_dll_cpu.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\yolo_cpp_dll_gpu.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\pthreadVC2.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\pthreadGC2.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\msvcr100.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Emgu.CV.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Alturos.Yolo.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\System.Drawing.Common.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Emgu.CV.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\Emgu.CV.Bitmap.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWorkTest\bin\Debug\System.Drawing.Common.xml

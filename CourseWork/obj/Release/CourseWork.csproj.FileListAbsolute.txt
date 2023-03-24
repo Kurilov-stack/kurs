@@ -1,0 +1,110 @@
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\bin\Release\CourseWork.exe.config
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\bin\Release\CourseWork.exe
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\bin\Release\CourseWork.pdb
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\bin\Release\EPPlus.dll
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\bin\Release\System.IO.Packaging.dll
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\bin\Release\EPPlus.xml
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\bin\Release\System.IO.Packaging.xml
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.csprojAssemblyReference.cache
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.csproj.ResolveComReference.cache
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.AdminDBForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.AdminForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.ChangeInformationUserForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.CreateCategoryForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.CreateCoachForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.CreateEquipmentForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.CreateFuncEquipForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.CreateGymEquipmentForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.CreateGymForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.CreateScheduleForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.CreateSeasonTicketForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.CreateSeasonTicketGymForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.CreateTrainForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.CreateTrainGymForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.EditCategoryForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.EditCoachForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.EditEquipmentForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.EditFuncEquipmentForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.EditGymEquipForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.EditGymForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.EditScheduleForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.EditSeasonTicketForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.EditSeasonTicketGymForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.EditTrainForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.EditTrainGymForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.MainForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.Properties.Resources.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.SearchGymForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.SearchResultsForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.TableForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.TopGymsAdminForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.TopGymsUserForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.UserDBForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.UserForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.WatchFeedbacks.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.WriteFeedbackForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.csproj.GenerateResource.cache
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.csproj.CopyComplete
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.exe
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.pdb
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.UnUserDBForm.resources
+C:\Users\79504\Desktop\Юра\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.WatchOtherFeedbacks.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\bin\Release\CourseWork.exe.config
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\bin\Release\CourseWork.exe
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\bin\Release\CourseWork.pdb
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\bin\Release\EPPlus.dll
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\bin\Release\System.IO.Packaging.dll
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\bin\Release\EPPlus.xml
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\bin\Release\System.IO.Packaging.xml
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.csproj.AssemblyReference.cache
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.csproj.ResolveComReference.cache
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.AdminDBForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.AdminForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.ChangeInformationUserForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.CreateCategoryForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.CreateCoachForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.CreateEquipmentForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.CreateFuncEquipForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.CreateGymEquipmentForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.CreateGymForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.CreateScheduleForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.CreateSeasonTicketForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.CreateSeasonTicketGymForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.CreateTrainForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.CreateTrainGymForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.EditCategoryForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.EditCoachForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.EditEquipmentForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.EditFuncEquipmentForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.EditGymEquipForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.EditGymForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.EditScheduleForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.EditSeasonTicketForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.EditSeasonTicketGymForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.EditTrainForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.EditTrainGymForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.MainForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.Properties.Resources.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.SearchGymForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.SearchResultsForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.TableForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.TopGymsAdminForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.TopGymsUserForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.UnUserDBForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.UserDBForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.UserForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.WatchFeedbacks.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.WatchOtherFeedbacks.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.WriteFeedbackForm.resources
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.csproj.GenerateResource.cache
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.csproj.CopyComplete
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.exe
+C:\Users\Юриц\OneDrive - НИУ Высшая школа экономики\Рабочий стол\Yura\Курсовая работа\Приложение кр\CourseWork\CourseWork\obj\Release\CourseWork.pdb

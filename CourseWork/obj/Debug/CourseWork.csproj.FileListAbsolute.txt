@@ -1,0 +1,513 @@
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\CourseWork.dll.config
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\CourseWork.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\CourseWork.pdb
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\csc.exe
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\csc.exe.config
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\csc.rsp
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\csi.exe
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\csi.exe.config
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\csi.rsp
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.AppContext.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.Console.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.IO.Compression.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.Net.Http.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.ValueTuple.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\vbc.exe
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\vbc.exe.config
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\vbc.rsp
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\VBCSCompiler.exe
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Antlr3.Runtime.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\EntityFramework.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\EntityFramework.SqlServer.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Newtonsoft.Json.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\System.Web.Helpers.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\System.Web.Mvc.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\System.Web.Optimization.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\System.Web.Razor.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\System.Web.WebPages.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\System.Web.WebPages.Razor.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\WebGrease.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\EntityFramework.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\EntityFramework.SqlServer.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\System.Web.Helpers.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\System.Web.Mvc.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\System.Web.Optimization.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\System.Web.Razor.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\System.Web.WebPages.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\System.Web.WebPages.Razor.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Newtonsoft.Json.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Antlr3.Runtime.pdb
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Microsoft.Owin.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Microsoft.Owin.Security.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Owin.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Microsoft.Owin.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Microsoft.Owin.Security.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Migrations.InitialCreate.resources
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Migrations.MigrateDB.resources
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Migrations.MigrateDB1.resources
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Migrations.MigrateDB2.resources
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Migrations.MigrateDB3.resources
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Migrations.MigrateDB4.resources
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Migrations.MigrateDB5.resources
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Migrations.MigrateDB6.resources
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Migrations.MigrateDB7.resources
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\ClosedXML.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\DocumentFormat.OpenXml.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\ExcelNumberFormat.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\System.IO.Packaging.dll
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\ClosedXML.pdb
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\ClosedXML.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\DocumentFormat.OpenXml.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\bin\ExcelNumberFormat.xml
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Migrations.MigrateDB8.resources
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Migrations.MigrateDB9.resources
+C:\Users\Юриц\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\CourseWork.dll.config
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\CourseWork.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\CourseWork.pdb
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\csc.exe
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\csc.exe.config
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\csc.rsp
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\csi.exe
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\csi.exe.config
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\csi.rsp
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.AppContext.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.Console.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.IO.Compression.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.Net.Http.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.ValueTuple.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\vbc.exe
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\vbc.exe.config
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\vbc.rsp
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\VBCSCompiler.exe
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Antlr3.Runtime.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\ClosedXML.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\DocumentFormat.OpenXml.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\EntityFramework.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\EntityFramework.SqlServer.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\ExcelNumberFormat.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Microsoft.Owin.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Microsoft.Owin.Security.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Newtonsoft.Json.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Owin.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\System.IO.Packaging.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\System.Web.Helpers.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\System.Web.Mvc.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\System.Web.Optimization.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\System.Web.Razor.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\System.Web.WebPages.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\System.Web.WebPages.Razor.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\WebGrease.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\ClosedXML.pdb
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\ClosedXML.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\DocumentFormat.OpenXml.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\EntityFramework.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\EntityFramework.SqlServer.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\ExcelNumberFormat.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Microsoft.Owin.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Microsoft.Owin.Security.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\System.Web.Helpers.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\System.Web.Mvc.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\System.Web.Optimization.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\System.Web.Razor.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\System.Web.WebPages.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\System.Web.WebPages.Razor.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Newtonsoft.Json.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Antlr3.Runtime.pdb
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\ru\System.Web.Razor.resources.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\obj\Debug\CourseWork.dll
+C:\Users\nkuri\Desktop\Новая папка\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\CourseWork.dll.config
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\CourseWork.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\CourseWork.pdb
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\csc.exe
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\csc.exe.config
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\csc.rsp
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\csi.exe
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\csi.exe.config
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\csi.rsp
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.AppContext.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.Console.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.IO.Compression.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.Net.Http.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.ValueTuple.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\vbc.exe
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\vbc.exe.config
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\vbc.rsp
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\VBCSCompiler.exe
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Antlr3.Runtime.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\ClosedXML.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\DocumentFormat.OpenXml.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\EntityFramework.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\EntityFramework.SqlServer.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\ExcelNumberFormat.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Security.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Newtonsoft.Json.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Owin.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\System.IO.Packaging.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\System.Web.Helpers.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\System.Web.Mvc.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\System.Web.Optimization.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\System.Web.Razor.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\System.Web.WebPages.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\System.Web.WebPages.Razor.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\WebGrease.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\ClosedXML.pdb
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\ClosedXML.xml
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\DocumentFormat.OpenXml.xml
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\EntityFramework.xml
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\EntityFramework.SqlServer.xml
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\ExcelNumberFormat.xml
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.xml
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Security.xml
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\System.Web.Helpers.xml
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\System.Web.Mvc.xml
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\System.Web.Optimization.xml
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\System.Web.Razor.xml
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\System.Web.WebPages.xml
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\System.Web.WebPages.Razor.xml
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Newtonsoft.Json.xml
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Antlr3.Runtime.pdb
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\ru\System.Web.Razor.resources.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\nkuri\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\obj\Debug\CourseWork.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\CourseWork.dll.config
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\CourseWork.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\CourseWork.pdb
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\csc.exe
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\csc.exe.config
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\csc.rsp
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\csi.exe
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\csi.exe.config
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\csi.rsp
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.AppContext.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.Console.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.IO.Compression.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.Net.Http.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.ValueTuple.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\vbc.exe
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\vbc.exe.config
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\vbc.rsp
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\VBCSCompiler.exe
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Antlr3.Runtime.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\ClosedXML.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\DocumentFormat.OpenXml.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\EntityFramework.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\EntityFramework.SqlServer.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\ExcelNumberFormat.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.Owin.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.Owin.Security.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Newtonsoft.Json.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Owin.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.IO.Packaging.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Web.Helpers.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Web.Mvc.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Web.Optimization.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Web.Razor.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Web.WebPages.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Web.WebPages.Razor.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\WebGrease.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\ClosedXML.pdb
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\ClosedXML.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\DocumentFormat.OpenXml.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\EntityFramework.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\EntityFramework.SqlServer.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\ExcelNumberFormat.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.Owin.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.Owin.Security.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Web.Helpers.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Web.Mvc.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Web.Optimization.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Web.Razor.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Web.WebPages.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Web.WebPages.Razor.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Newtonsoft.Json.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Antlr3.Runtime.pdb
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\ru\System.Web.Razor.resources.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Buffers.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.IO.Pipelines.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Memory.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Numerics.Vectors.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Buffers.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.IO.Pipelines.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Memory.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Numerics.Vectors.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Text.Encodings.Web.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Text.Encodings.Web.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\opencv_world411.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\yolo_cpp_dll_cpu.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\yolo_cpp_dll_gpu.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\pthreadVC2.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\pthreadGC2.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\msvcr100.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Alturos.Yolo.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Emgu.CV.Bitmap.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Emgu.CV.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Drawing.Common.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Emgu.CV.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Emgu.CV.Bitmap.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\System.Drawing.Common.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Aspose.Imaging.dll
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\bin\Aspose.Imaging.xml
+C:\Users\nkuri\source\repos\курсач 3 курс\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
